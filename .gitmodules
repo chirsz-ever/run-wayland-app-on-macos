@@ -1,0 +1,12 @@
+[submodule "wayland"]
+	path = wayland
+	url = https://github.com/chirsz-ever/wayland.git
+[submodule "wayland-protocols"]
+	path = wayland-protocols
+	url = https://gitlab.freedesktop.org/wayland/wayland-protocols.git
+[submodule "owl"]
+	path = owl
+	url = https://github.com/chirsz-ever/owl.git
+[submodule "havoc"]
+	path = havoc
+	url = https://github.com/chirsz-ever/havoc.git
