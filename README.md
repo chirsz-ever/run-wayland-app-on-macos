@@ -1,3 +1,5 @@
+Before building, you need install `epoll-shim` and `xkbcommon`. You can easily install them by [Homebrew](https://brew.sh).
+
 Build Steps:
 
 1. Prepare the repository
