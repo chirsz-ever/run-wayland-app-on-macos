@@ -57,8 +57,7 @@ compile_owl() {
 compile_havoc() {
     pushd havoc
 
-    meson setup build
-    meson compile -C build
+    make
 
     popd
 }
